@@ -1,6 +1,7 @@
 # PCC-Client
 
 DE:
-This is a minecraft client from PCC Studios
+Das ist ein Minecraft Client von PCC Studios
 
 EN:
+This is a Minecraft Client from PCC Studios
