@@ -1,12 +1,11 @@
 # Sky-Client
 
 DE:
-Das ist ein Minecraft Client von Sky Studios
+Das ist ein Minecraft Client von Platix Studios
 
 EN:
-This is a Minecraft Client from Sky Studios
+This is a Minecraft Client from Platix Studios
 
 Changelog:
-From PCC Client to Sky-Client 
-From PCC Studios to Sky Studios
+From Sky Studios to Platix Studios
 
